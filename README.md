@@ -21,6 +21,7 @@ I am a full-stack and AI developer with a passion for building innovative soluti
 <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text-1.svg" width="36" height="36" alt="opencv" /></a> 
 <a href="https://kali.org" target="_blank" rel="noreferrer" ><img src="https://cdn.worldvectorlogo.com/logos/kali-1.svg" width="36" height="36" alt="kalilinux"  /></a>
 <a href="https://sqliteBrowser.org" target="_blank" rel="noreferrer" ><img src="https://www.svgrepo.com/show/499816/database.svg" width="36" height="36" alt="database"  /></a>
+<a href="https://office.com" target="_blank" rel="noreferrer" ><img src="https://www.cdnlogo.com/logos/o/96/office.svg" width="36" height="36" alt="office"  /></a>
 
 </p>
 
