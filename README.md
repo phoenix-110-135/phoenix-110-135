@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is phoenix-110-135
 =======================================================================================================================================
 
-🚀full stack-AI developer and desinger🚀
+🚀full stack-AI developer and desinger 🚀
 ----------------------------------------
 
 I am a full-stack and AI developer with a passion for building innovative solutions that bridge the gap between technology and user experience. My expertise spans both front-end and back-end development, allowing me to create seamless applications that are not only functional but also visually appealing. I have a strong foundation in various programming languages and frameworks, enabling me to adapt to new technologies quickly.
@@ -10,8 +10,10 @@ I am a full-stack and AI developer with a passion for building innovative soluti
 * 🖥️  See my portfolio at [MY PROFILE](http://github.com/phoenix-110-135)
 * ✉️  You can contact me at [a87h97@gmail.com](mailto:a87h97@gmail.com)
 * 🧠  I'm learning deep learning and data mining
-* 🤝  I'm open to collaborating on BALE ,Telegram
-* ⚡  my favorite animal is phoenix
+* 🤝  I'm open to collaborating on Github ,Telegram , Bale
+* ⚡  I'm working at penetration testing and AI and Web and Iot and Desing
+* 🔷  For ever I'm working for my Countries
+  
 
 ### Skills and tools
 
