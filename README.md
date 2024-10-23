@@ -13,7 +13,6 @@ I am a full-stack and AI developer with a passion for building innovative soluti
 * 🤝  I'm open to collaborating on Github ,Telegram , Bale
 * ⚡  I'm working at penetration testing and AI and Web and Iot and Desing
 * 🔷  For ever I'm working for my Countries
-* 😀  my binary code is 010100000110100001101111011001010110111001101001011110000010110100110001001100010011000000101101001100010011001100110101
   
 
 ### Skills and tools
