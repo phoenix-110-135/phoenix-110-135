@@ -24,6 +24,7 @@ I am a full-stack and AI developer with a passion for building innovative soluti
 <a href="https://kali.org" target="_blank" rel="noreferrer" ><img src="https://cdn.worldvectorlogo.com/logos/kali-1.svg" width="36" height="36" alt="kalilinux"  /></a>
 <a href="https://sqliteBrowser.org" target="_blank" rel="noreferrer" ><img src="https://www.svgrepo.com/show/499816/database.svg" width="36" height="36" alt="database"  /></a>
 <a href="https://office.com" target="_blank" rel="noreferrer" ><img src="https://www.cdnlogo.com/logos/o/96/office.svg" width="36" height="36" alt="office"  /></a>
+<a href="https://office.com" target="_blank" rel="noreferrer" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="36" height="36" alt="office"  /></a>
 
 </p>
 
