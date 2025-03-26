@@ -84,7 +84,7 @@ I am a full-stack and AI developer with a passion for building innovative soluti
 </p>
 
 <p>
-  <img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDMwMjk0NjUsIm5iZiI6MTc0MzAyOTE2NSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzI2VDIyNDYwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTllYjc2NjFhNWIxODA5ZTQ0NmM0NzcxYzg2OWFiZjhjMDk3MjIxZjVhOGQ2YTI0YjQ0NTUxNjk5Mjg1ODk5OTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.S2HlEPtR-f3ceNQFcXtkoW4jldGvTRwH1y9QR6A1POQ">
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 </p>
 ### Profile Views
 
