@@ -53,12 +53,10 @@ I am a full-stack and AI developer with a passion for building innovative soluti
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phoenix-110-135&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phoenix-110-135&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phoenix-110-135&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=phoenix-110-135&theme=darkhub&column=7" alt="GitHub Trophies" />
 </p>
 
 
