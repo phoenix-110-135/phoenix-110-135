@@ -5,6 +5,7 @@
   <img src="https://api.statusbadges.me/badge/status/898843614380163082" />
   <img src="https://api.statusbadges.me/badge/playing/898843614380163082" />
   <img src="https://api.statusbadges.me/badge/vscode/898843614380163082" />
+  <img src="https://komarev.com/ghpvc/?username=phoenix-110-135&color=blue" />
 </p>
 
 I am a full-stack and AI developer with a passion for building innovative solutions that bridge the gap between technology and user experience. My expertise spans both front-end and back-end development, allowing me to create seamless applications that are not only functional but also visually appealing. I have a strong foundation in various programming languages and frameworks, enabling me to adapt to new technologies quickly.
@@ -64,9 +65,8 @@ I am a full-stack and AI developer with a passion for building innovative soluti
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 </p>
-###🔷 Profile Views
 
-<p align="center">![Profile Views](https://komarev.com/ghpvc/?username=phoenix-110-135&color=blue)</p>
+![Profile Views](https://komarev.com/ghpvc/?username=phoenix-110-135&color=blue)
 
 ### Socials
 
