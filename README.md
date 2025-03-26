@@ -1,5 +1,5 @@
- !HI [HI](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
-# My name is phoenix-110-135
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
+# My name is phoenix-110-135 😉
 ## 🚀 Full Stack AI Developer and Designer 🚀
 
 I am a full-stack and AI developer with a passion for building innovative solutions that bridge the gap between technology and user experience. My expertise spans both front-end and back-end development, allowing me to create seamless applications that are not only functional but also visually appealing. I have a strong foundation in various programming languages and frameworks, enabling me to adapt to new technologies quickly.
