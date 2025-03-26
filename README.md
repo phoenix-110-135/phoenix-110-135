@@ -17,7 +17,7 @@ I am a full-stack and AI developer with a passion for building innovative soluti
 - 🧠  I'm learning **Deep Learning** and **Data Mining**
 - 🤝  I'm open to collaborating on **GitHub**, **Telegram**, **Bale**
 - ⚡ I'm working on **Penetration Testing**, **AI**, **Web**, **IoT**, and **Design**
-- 🔷 I'm committed to working for my country
+- 🔷 I'm Creative, strong, hopeful
 
 
 ### 💻 Technology
