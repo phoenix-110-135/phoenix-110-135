@@ -2,6 +2,12 @@
 # My name is phoenix-110-135 😉
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=200&color=BB00F7&background=FFFFFF00&width=435&lines=I+am+full-stack+;I+am+Ai-developer;I+am+Designer+;I+am+Editor;I+am+Osinter)](https://git.io/typing-svg)
 
+<p align="center">
+  <img src="https://api.statusbadges.me/badge/status/898843614380163082" />
+  <img src="https://api.statusbadges.me/badge/playing/898843614380163082" />
+  <img src="https://api.statusbadges.me/badge/vscode/898843614380163082" />
+</p>
+
 I am a full-stack and AI developer with a passion for building innovative solutions that bridge the gap between technology and user experience. My expertise spans both front-end and back-end development, allowing me to create seamless applications that are not only functional but also visually appealing. I have a strong foundation in various programming languages and frameworks, enabling me to adapt to new technologies quickly.
 
 - 🌍  I'm based in **Iran**
