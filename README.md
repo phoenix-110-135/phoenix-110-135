@@ -2,9 +2,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=200&color=BB00F7&background=FFFFFF00&width=435&lines=I+am+full-stack+;I+am+Ai-developer;I+am+Designer+;I+am+Editor;I+am+Osinter)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://api.statusbadges.me/badge/status/898843614380163082&color=orange" />
-  <img src="https://api.statusbadges.me/badge/playing/898843614380163082&color=orange" />
-  <img src="https://api.statusbadges.me/badge/vscode/898843614380163082&color=orange" />
+  <img src="https://api.statusbadges.me/badge/status/1354590570651193424?simple=true&color=orange" />
+  <img src="https://api.statusbadges.me/badge/playing/1354590570651193424&color=orange" />
+  <img src="https://api.statusbadges.me/badge/vscode/1354590570651193424&color=orange" />
   <img src="https://komarev.com/ghpvc/?username=phoenix-110-135&color=orange" />
 </p>
 
