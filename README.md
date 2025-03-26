@@ -1,5 +1,4 @@
-# HI my friend 🤗
-# My name is phoenix-110-135 😉
+# HI , My name is phoenix-110-135 😉
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=200&color=BB00F7&background=FFFFFF00&width=435&lines=I+am+full-stack+;I+am+Ai-developer;I+am+Designer+;I+am+Editor;I+am+Osinter)](https://git.io/typing-svg)
 
 <p align="center">
