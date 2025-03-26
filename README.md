@@ -83,11 +83,7 @@ I am a full-stack and AI developer with a passion for building innovative soluti
 <a href="https://office.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="36" height="36" alt="C++" /></a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+
 ### Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=phoenix-110-135&color=blue)
