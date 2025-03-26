@@ -66,9 +66,8 @@ I am a full-stack and AI developer with a passion for building innovative soluti
   <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=phoenix-110-135&color=blue)
 
-### Socials
+### 🌐Socials
 
 <p align="left">
 <a href="https://www.github.com/phoenix-110-135" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" alt="GitHub" /></a>
