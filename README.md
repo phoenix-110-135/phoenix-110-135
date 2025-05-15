@@ -44,6 +44,7 @@ I am a full-stack and AI developer with a passion for building innovative soluti
 ![Database](https://img.shields.io/badge/Database-003B57?style=flat&logo=mysql&logoColor=white)
 ![Office](https://img.shields.io/badge/Microsoft%20Office-0078D4?style=flat&logo=microsoft-office&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
 ![After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=flat&logo=adobe-after-effects&logoColor=white)
 ![Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat&logo=adobe-premiere&logoColor=white)
