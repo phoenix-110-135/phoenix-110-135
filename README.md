@@ -14,14 +14,15 @@ My mission is to bridge technology and humanity — creating tools that empower 
 
 Constantly exploring new technologies like LangChain, n8n, PyTorch, and ethical hacking frameworks, I believe in using code not just to build — but to transform the future. 💫
 
-- 🌍  I'm from **Iran**
-- 😌  I'm **16** years old
-- 🖥️  See my portfolio at [MY PROFILE](http://phoenix-110-135.github.io)
-- ✉️  You can contact me at [a87h97@gmail.com](mailto:a87h97@gmail.com)
-- 🧠  I'm learning **Deep Learning** and **Data Mining**
-- 🤝  I'm open to collaborating on **GitHub**, **Telegram**, **Bale**
-- ⚡ I'm working on **Penetration Testing**, **AI**, **Web**, **IoT**, and **Design**
-- 🔷 I'm Creative, strong, hopeful
+- 🌍 From **Iran**, exploring the digital frontier  
+- 😌 **16 years young**, coding my path to the future  
+- 🖥️ Check out my creations at [MY PORTFOLIO](http://phoenix-110-135.github.io)  
+- ✉️ Reach me at [a87h97@gmail.com](mailto:a87h97@gmail.com) – let’s build!  
+- 🧠 Diving deep into **Deep Learning** & **Data Mining**  
+- 🤝 Open to collabs on **GitHub**, **Telegram**, & **Bale**  
+- ⚡ Crafting magic in **Penetration Testing**, **AI**, **Web**, **IoT**, & **Design**  
+- 🔷 Creative, resilient, and full of hope  
+
 
 
 ### 💻 Technology
