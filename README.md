@@ -23,7 +23,7 @@ I am a full-stack and AI developer with a passion for building innovative soluti
 ### 💻 Technology
 
 
-#### 🧠 AI & Data Science — Neon Lab
+#### 🧠 AI & Data Science 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F20?style=flat&logo=tensorflow&logoColor=white)
@@ -35,7 +35,7 @@ I am a full-stack and AI developer with a passion for building innovative soluti
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
-#### 🌐 Web & Backend — Neon Stack
+#### 🌐 Web & Backend 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -56,10 +56,8 @@ I am a full-stack and AI developer with a passion for building innovative soluti
 #### 🤖 Agent — Automation & Orchestration (New)
 ![n8n](https://img.shields.io/badge/n8n-FF6A00?style=flat&logo=n8n&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-6C63FF?style=flat&logo=python&logoColor=white)
-- n8n (workflow automation / integrations)
-- LangChain (LLM orchestration / RAG / agents)
 
-#### 🛡️ Security & Pentesting — Neon Red
+#### 🛡️ Security & Pentesting 
 ![OSCP](https://img.shields.io/badge/OSCP-FF4B4B?style=flat&logo=offensive-security&logoColor=white)
 ![Network+](https://img.shields.io/badge/Network%2B-0078D4?style=flat&logo=cisco&logoColor=white)
 ![CEH](https://img.shields.io/badge/CEH-FF0000?style=flat&logo=hackaday&logoColor=white)
@@ -68,7 +66,7 @@ I am a full-stack and AI developer with a passion for building innovative soluti
 ![Metasploit](https://img.shields.io/badge/Metasploit-4A4A4A?style=flat&logo=metasploit&logoColor=white)
 
 
-#### ⚙️ Tools & DevOps — Neon Workshop
+#### ⚙️ Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
@@ -76,13 +74,13 @@ I am a full-stack and AI developer with a passion for building innovative soluti
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-#### 🎨 Design & Media — Neon Studio
+#### 🎨 Design & Media 
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
 ![After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=flat&logo=adobe-after-effects&logoColor=white)
 ![Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white)
 
-#### 💡 Languages
+#### 💡 other Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 
