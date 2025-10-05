@@ -105,5 +105,5 @@ I am a full-stack and AI developer with a passion for building innovative soluti
 ## 🌐Socials
 <p align="left">
 <a href="https://www.github.com/phoenix-110-135" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" alt="GitHub" /></a>
-<a href="https://t.me/CEH-AI-IOT" target="_blank" rel="noreferrer"><img src="https://static.cdnlogo.com/logos/t/84/telegram.svg" width="32" height="32" alt="Telegram" /></a>
+<a href="https://t.me/data-buyer" target="_blank" rel="noreferrer"><img src="https://static.cdnlogo.com/logos/t/84/telegram.svg" width="32" height="32" alt="Telegram" /></a>
 </p>
