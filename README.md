@@ -8,7 +8,11 @@
   <img src="https://komarev.com/ghpvc/?username=phoenix-110-135&color=orange" />
 </p>
 
-I am a full-stack and AI developer with a passion for building innovative solutions that bridge the gap between technology and user experience. My expertise spans both front-end and back-end development, allowing me to create seamless applications that are not only functional but also visually appealing. I have a strong foundation in various programming languages and frameworks, enabling me to adapt to new technologies quickly.
+I’m a full-stack & AI developer driven by the vision of building intelligent, creative, and secure systems that shape a better future.
+With expertise across front-end, back-end, AI, automation, and cybersecurity, I design experiences where innovation meets reliability.
+My mission is to bridge technology and humanity — creating tools that empower people, automate knowledge, and light the path toward a smarter world.
+
+Constantly exploring new technologies like LangChain, n8n, PyTorch, and ethical hacking frameworks, I believe in using code not just to build — but to transform the future. 💫
 
 - 🌍  I'm from **Iran**
 - 😌  I'm **16** years old
