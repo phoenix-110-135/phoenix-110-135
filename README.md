@@ -1,5 +1,5 @@
 # HI , I'm  phoenix-110-135 😉
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=4000&pause=200&color=FFD700&background=FFFFFF00&width=435&lines=Between+zeros+and+ones,+I+write+the+universe’s+secrets.;I+ride+the+currents+of+data,+chasing+shadows+of+the+future.;A+ghost+in+the+machine,+awake+in+the+neon+haze.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=200&color=FFD700&background=FFFFFF00&width=435&lines=Between+zeros+and+ones;I+ride+the+data;Into+the+unknown;Shadows+of+tomorrow)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://api.statusbadges.me/badge/status/1354590570651193424?simple=true&color=orange" />
