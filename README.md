@@ -2,10 +2,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=200&color=FFD700&background=FFFFFF00&width=435&lines=Between+zeros+and+ones;I+ride+the+data;Into+the+unknown;Shadows+of+tomorrow)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://api.statusbadges.me/badge/status/1354590570651193424?simple=true&color=orange" />
-  <img src="https://api.statusbadges.me/badge/playing/1354590570651193424&color=orange" />
-  <img src="https://api.statusbadges.me/badge/vscode/1354590570651193424&color=orange" />
-  <img src="https://komarev.com/ghpvc/?username=phoenix-110-135&color=orange" />
+  <img src="https://api.statusbadges.me/badge/status/1354590570651193424?simple=true&color=gold" />
+  <img src="https://api.statusbadges.me/badge/playing/1354590570651193424&color=gold" />
+  <img src="https://api.statusbadges.me/badge/vscode/1354590570651193424&color=gold" />
+  <img src="https://komarev.com/ghpvc/?username=phoenix-110-135&color=gold" />
 </p>
 
 I’m a full-stack & AI developer driven by the vision of building intelligent, creative, and secure systems that shape a better future.
