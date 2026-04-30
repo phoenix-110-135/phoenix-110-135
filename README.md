@@ -50,7 +50,7 @@ Constantly exploring new technologies like LangChain, n8n, PyTorch, and ethical 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-25A3E0?style=flat&logo=fast-api&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-25A3E0?style=flat&logo=fast-api&logoColor=white)
 
 #### 🧩 Databases & Infra
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
